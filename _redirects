@@ -1,5 +1,5 @@
 /short/* /shorten.php?url=:splat 200
-/home              https://facebook.com/aman.dorjoy
+/home              https://facebook.com/aman.dorjoy 200!
 /blog/my-post.php  /blog/my-post
 /news              /blog
 /cuties https://facebook.com/aman.dorjoy
