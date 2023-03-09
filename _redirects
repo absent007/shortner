@@ -1,5 +1,5 @@
 # Redirects from what the browser requests to what we serve
-/home              
+/home              https://facebook.com/aman.dorjoy
 /blog/my-post.php  /blog/my-post
 /news              /blog
-/cuties https://facebook.com
+/cuties https://facebook.com/aman.dorjoy
