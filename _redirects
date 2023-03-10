@@ -1,4 +1,4 @@
-/short/* /shorten.php?url=:splat 200
+/short/* /shorten.php?url=:splat 302
 /home              https://facebook.com/aman.dorjoy 200!
 /blog/my-post.php  /blog/my-post
 /news              /blog
